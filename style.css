@@ -1,0 +1,55 @@
+h1,h2{
+    text-align: center;
+    
+}
+.div{
+    display:inline-block;
+    text-align: center;
+
+}
+button{
+    text-align: center;
+    background-color: blueviolet;
+    margin: 20px;
+    
+}
+.div1{
+    text-align: center;
+    display:flex;
+    border: 30px;
+    margin: 30px;
+    
+
+}
+.div2{
+    text-align: center;
+    display:flex;
+    border: 30px;
+    margin: 30px;
+}
+img{
+    border: 30px;
+    margin: 30px;
+
+}
+
+.image4{
+    margin: 20px;
+    border-style:groove;
+    
+}
+.image1{
+    margin: 20px;
+    border-style:groove;
+}
+.image2{
+    margin: 20px;
+    border-style:groove;
+}
+.image3{
+    margin: 20px;
+    border-style:groove;
+}
+
+
+
